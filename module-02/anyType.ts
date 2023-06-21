@@ -15,6 +15,3 @@ const formulario: {[campoFormulario: string]: any} = {
     sobrenome: 'Mendes',
     idade: 29
 }
-
-console.log(formulario);
-
