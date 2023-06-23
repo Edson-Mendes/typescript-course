@@ -48,6 +48,5 @@ console.log(aluno.getName);
 console.log(aluno.getCurso);
 
 aluno.setCurso = 'Ciências da Computação';
-aluno.curso = 'Ciências da Computação';
 
 console.log(aluno.getCurso);
